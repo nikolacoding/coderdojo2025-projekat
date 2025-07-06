@@ -1,5 +1,5 @@
 > [!NOTE]
-> Prije pokretanja ili bilo kakve dorade instalirati p5 biblioteku <a href="">prema ovim instrukcijama</a>.
+> Prije pokretanja ili bilo kakve dorade instalirati p5 biblioteku <a href="https://p5.readthedocs.io/en/latest/install.html">prema ovim instrukcijama</a>.
 
 > [!CAUTION]
 > Najnovije verzije Pythona nisu podržane i biblioteka se neće moći instalirati. Koristiti bilo koju od verzija od 3.6.0 zaključno sa 3.10.9.
